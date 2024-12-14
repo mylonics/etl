@@ -1,0 +1,4 @@
+config ETL
+	bool "Enable Embedded Template Library"
+	help
+	  This option enables the use of the embedded template library.
